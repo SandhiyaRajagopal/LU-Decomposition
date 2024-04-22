@@ -10,7 +10,7 @@ To write a program to find the LU Decomposition of a matrix.
 ## Algorithm
 1. Import numpy extension and scipy.linalg extension.
 2. Initialize the matrix values.
-3.  Use lu functions from imported extensions.
+3. Use lu functions from imported extensions.
 4. Print the program.
 
 ## Program:
@@ -47,9 +47,8 @@ print(x)
 ```
 
 ## Output:
-![Screenshot (175)](https://github.com/SandhiyaRajagopal/LU-Decomposition/assets/144870852/6351ce65-06d2-4f8c-90e2-5c9fc5387d4d)
-
-![Screenshot (176)](https://github.com/SandhiyaRajagopal/LU-Decomposition/assets/144870852/ab80edf8-7e2d-46aa-9ec7-bc418eb9046c)
+![alt text](<Screenshot (175).png>)
+![alt text](<Screenshot (176).png>)
 
 
 ## Result:
